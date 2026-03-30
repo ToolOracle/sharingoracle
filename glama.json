@@ -1,1 +1,8 @@
-{"name": "SharingOracle", "description": "DORA Art. 45 information sharing \u2014 8 MCP tools for threat intel exchange, TLP marking", "category": "compliance", "tags": ["dora", "threat-intel", "isac", "compliance"], "tools": 8, "transport": "streamable-http", "endpoint": "https://tooloracle.io/sharing/mcp/"}
+{
+  "name": "sharingOracle",
+  "description": "DORA Art. 45 Information Sharing \u2014 8 MCP tools for cyber threat intel",
+  "repository": "https://github.com/ToolOracle/sharingoracle",
+  "endpoint": "https://tooloracle.io/sharing/mcp/",
+  "tools": 8,
+  "license": "MIT"
+}
