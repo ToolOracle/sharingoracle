@@ -1,0 +1,5 @@
+name: SharingOracle
+description: DORA Threat sharing — 10 tools
+endpoint: https://tooloracle.io/sharing/mcp/
+transport: streamable-http
+license: MIT
